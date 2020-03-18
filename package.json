@@ -1,0 +1,22 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "dependencies": {
+    "blast-wrapper": "^0.0.4",
+    "clustal-omega-wrapper": "^1.0.0",
+    "dotenvs": "^1.0.5",
+    "needleman-wrapper": "^1.0.0",
+    "nt-seq-ts": "^0.0.3",
+    "ntseq": "^1.1.0",
+    "request": "^2.88.2",
+    "seqalign": "^1.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
